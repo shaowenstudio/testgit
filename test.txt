@@ -2,4 +2,8 @@ add by new-feature branch
 add by new-bugfix
 new line added in remote
 New line added in local
+<<<<<<< .merge_file_07z5nt
 another local add - conflict
+=======
+another remote add - conflict
+>>>>>>> .merge_file_OJO4wx
