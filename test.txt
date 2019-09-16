@@ -1,3 +1,4 @@
 add by new-feature branch
 add by new-bugfix
 new line added in remote
+New line added in local
